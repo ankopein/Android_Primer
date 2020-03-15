@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SE2_Single</string>
+    <string name="requested_action">Choose between local and server calculation:</string>
+    <string name="hint">Student ID goes here ...</string>
+    <string name="result">Result will appear here</string>
+    <string name="send_btn">Send request</string>
+    <string name="local_btn">mod 7 = 4</string>
 </resources>
