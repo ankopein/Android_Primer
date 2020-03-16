@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btn_local = null;
     private TextView tv_result = null;
 
-    Disposable disposable = null;
+    private Disposable disposable = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
